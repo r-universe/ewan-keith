@@ -3,3 +3,8 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "shinyShortcut"]
+	path = shinyShortcut
+	url = https://github.com/ewan-keith/shinyshortcut
+	shallow = true
+	registered = true
